@@ -1,1 +1,1 @@
-## A descrição dos exercícios está no começo de cada arquivo em comentários!
+## A descrição dos exercícios está em comentários no começo de cada arquivo!
